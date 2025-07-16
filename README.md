@@ -1,2 +1,3 @@
 # Gitdemo
-This is my demo Git Repository
+This is my demo Git Repository.
+Author - Rizwan
